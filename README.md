@@ -1,7 +1,42 @@
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhuan.cordeiro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jhuan-Medeiros) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://github-readme-stats.vercel.app/api?username=Jhuan-Medeiros&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jhuan-Medeiros&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhuan-Medeiros&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=Jhuan-Medeiros&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=Jhuan-Medeiros&icon=2&color=13)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+%5BJhuan%5D;Desenvolvedor+%5BSUA_AREA%5D;Bem-vindo(a)+ao+meu+perfil" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:jhuan.mcordeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jhuan-medeiros-974873286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 Sobre Mim
+<p>
+  Estou aprendendo C++ e sou competidor da WorldSkills
+</p>
+
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jhuan-Medeiros&show_icons=true&bg_color=000000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhuan-Medeiros&layout=compact&langs_count=7&bg_color=000000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF"/>
+</p>
+
+---
+
+### 🐍 Minha Contribuição no GitHub
+<p align="center">
+  <img src="https://github.com/Jhuan-Medeiros/Jhuan-Medeiros/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+</p>
+</p>
