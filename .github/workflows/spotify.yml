@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: novatorem/novatorem@v3 # <-- MUDANÇA PRINCIPAL AQUI
+      - uses: novatorem/novatorem@v3 # USANDO A VERSÃO ESTÁVEL
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
