@@ -10,8 +10,8 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: novatorem/novatorem@v3 # USANDO A VERSÃO ESTÁVEL
+      - uses: actions/checkout@v2
+      - uses: kittinan/spotify-github-profile@v1 # <-- NOVA ACTION AQUI
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
