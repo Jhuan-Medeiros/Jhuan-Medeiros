@@ -36,7 +36,4 @@
 ---
 
 ### 🎧 O que estou ouvindo agora
-<p align="center">
-  <!--START_SECTION:spotify-->
-  <!--END_SECTION:spotify-->
 </p>
