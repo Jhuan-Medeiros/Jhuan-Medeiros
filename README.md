@@ -36,4 +36,3 @@
 ---
 
 ### 🎧 O que estou ouvindo agora
-</p>
