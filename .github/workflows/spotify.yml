@@ -1,11 +1,9 @@
 name: Update Spotify Now Playing
 
 on:
-  # Roda a cada 5 minutos
   schedule:
     - cron: '*/5 * * * *'
   
-  # Permite que você rode este workflow manualmente pela aba Actions
   workflow_dispatch:
 
 jobs:
@@ -13,9 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: novatorem/novatorem@main
-        with: # <-- Adicionamos o 'with' novamente
-          entryPoint: api/index.py # <-- ESSA É A LINHA NOVA E IMPORTANTE
+      - uses: novatorem/novatorem@v3 # <-- MUDANÇA PRINCIPAL AQUI
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
