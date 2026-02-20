@@ -15,7 +15,15 @@
   Estou aprendendo C++ e sou competidor da WorldSkills.
 </p>
 
+### 📈 Estatísticas
+
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jhuan-Medeiros&show_icons=true&theme=swift" />
+</p>
+
 ### 🛠️ Tecnologias e Ferramentas
+
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /></a>
