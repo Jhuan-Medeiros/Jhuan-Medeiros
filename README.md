@@ -10,6 +10,7 @@
 ---
 
 ### 🚀 Sobre Mim
+
 <p>
   Estou aprendendo C++ e sou competidor da WorldSkills.
 </p>
@@ -28,10 +29,8 @@
 ---
 
 ### 📊 Minhas Estatísticas
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jhuan-Medeiros&show_icons=true&bg_color=000000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhuan-Medeiros&layout=compact&langs_count=7&bg_color=000000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF"/>
-</p>
+
+![Estatísticas](https://github-readme-stats.vercel.app)
 
 ---
 
