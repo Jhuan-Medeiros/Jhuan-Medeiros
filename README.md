@@ -28,12 +28,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas
-
-![Estatísticas](https://github-readme-stats.vercel.app)
-
----
-
 <p align="center">
 <a href="https://open.spotify.com/user/31fbpc6wyxzasurvb4fiheqzqdzu">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbpc6wyxzasurvb4fiheqzqdzu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=FFFFFF&interchange=false&bar_color=FFFFFF&bar_color_cover=false" alt="Spotify Now Playing" width="250">
