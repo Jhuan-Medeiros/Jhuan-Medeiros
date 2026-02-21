@@ -32,6 +32,7 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS%20Humble-000000?style=for-the-badge&logo=ros&logoColor=white" /></a>
 </p>
 
 ---
