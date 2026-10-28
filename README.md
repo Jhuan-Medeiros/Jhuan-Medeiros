@@ -1,4 +1,4 @@
-  <p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+%5BJhuan%5D;Bem-vindo(a)+ao+meu+perfil" alt="Typing SVG" /></a>
 </p>
 
@@ -16,7 +16,6 @@
 </p>
 
 ### 📈 Estatísticas
-
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Jhuan-Medeiros&show_icons=true&theme=swift" />
@@ -38,7 +37,7 @@
 ---
 
 <p align="center">
-<a href="https://open.spotify.com/user/31fbpc6wyxzasurvb4fiheqzqdzu">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fbpc6wyxzasurvb4fiheqzqdzu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=FFFFFF&interchange=false&bar_color=FFFFFF&bar_color_cover=false" alt="Spotify Now Playing" width="250">
+  <a href="https://open.spotify.com/user/31fbpc6wyxzasurvb4fiheqzqdzu" target="_blank">
+    <img src="https://kittinanx.com" alt="Spotify Now Playing" width="250">
+  </a>
 </p>
-
